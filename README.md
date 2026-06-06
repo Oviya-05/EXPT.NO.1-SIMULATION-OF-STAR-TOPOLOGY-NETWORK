@@ -11,28 +11,36 @@ Cisco Packet Tracer 5.0 Software.
 
 # PROCEDURE
 STEP 1: Open a Packet Tracer Software.
-STEP 2: Drag a 2950 Switch from tool bar and drop it in work area. STEP 3: Drag a PC Terminal from tool bar and drop it in work area. STEP 4: Repeat the Step:3 for four terminals.
+
+STEP 2: Drag a 2950 Switch from tool bar and drop it in work area. 
+
+STEP 3: Drag a PC Terminal from tool bar and drop it in work area. 
+
+STEP 4: Repeat the Step:3 for four terminals.
+
 STEP 5: Select Copper straight-through cable from tool bar and connect each PC Terminal with 2950 switch in different ports.
+
 STEP 6: Click on the PC Terminal, Select the fast Ethernet Interface from configuration table and set IP address and Subnet mask.
+
 STEP 7: Repeat the Step:6 for all the PC Terminals.
+
 STEP 8: click on the PC Terminal and Select Terminal from the Desktop tab to verify the connectivity between the PC Terminals using Ping Command.
+
 STEP 9: Select “add simple PDU” from tool bar and place it in source and destination PC Terminals to verify the connectivity
 
 
 
 # IP CONNECTIVITY TABLE
-<img width="1600" height="688" alt="image" src="https://github.com/user-attachments/assets/057e8840-8179-4271-b94c-e34f4e9555bb" />
-
+<img width="1156" height="1357" alt="image" src="https://github.com/user-attachments/assets/20846e80-e8a2-448a-b3c7-e04895b852f4" />
 
 
 # NETWORK DIAGRAM
-<img width="1600" height="1288" alt="image" src="https://github.com/user-attachments/assets/c88025cc-ee5e-46ce-b027-f004c57b3810" />
-
-
+<img width="1600" height="955" alt="image" src="https://github.com/user-attachments/assets/e4c291b3-9e7f-4562-a013-70651a4c396d" />
 
 
 # OUTPUT
-<img width="1600" height="1572" alt="image" src="https://github.com/user-attachments/assets/efdf812b-9101-4206-9f78-eadceeb0628c" />
+<img width="1600" height="1378" alt="image" src="https://github.com/user-attachments/assets/7ab39eae-30fb-4a68-8393-cd76d6774532" />
+<img width="1551" height="1494" alt="image" src="https://github.com/user-attachments/assets/71270414-9208-47df-9509-8ef7c569f665" />
 
 
 # RESULT
